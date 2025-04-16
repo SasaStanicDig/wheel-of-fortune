@@ -1,0 +1,6 @@
+[
+  { "name": "Prize 1", "image": "images/prize1.png", "count": 3 },
+  { "name": "Prize 2", "image": "images/prize2.png", "count": 2 },
+  { "name": "Prize 3", "image": "images/prize3.jpg", "count": 5 },
+  { "name": "Prize 3", "image": "images/prize4.svg", "count": 6 }
+]
